@@ -113,8 +113,9 @@ Predicting tumor type
 
 Showing confidence scores
 
-🖼️ Screenshots
-![Example](https://github.com/user-attachments/assets/77b7aa3c-0411-4dca-abe1-afe0a064fb6d)
+## 🖼️ Screenshots
+![Example](assets/example.png)
+
 
 
 
