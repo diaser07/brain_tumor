@@ -114,7 +114,7 @@ Predicting tumor type
 Showing confidence scores
 
 ## 🖼️ Screenshots
-![Example](assets/example.png)
+![image alt](https://github.com/diaser07/brain_tumor/blob/main/assets/example.png?raw=true)
 
 
 
