@@ -117,7 +117,8 @@ Showing confidence scores
 
 
 
-<img width="1591" height="847" alt="Screenshot 2025-12-01 151659" src="https://github.com/user-attachments/assets/3e031ae3-55db-4655-86df-d0e38183a32d" />
+<img width="1747" height="742" alt="example" src="https://github.com/user-attachments/assets/fde749bd-1295-40d1-9964-7248aee2f7c1" />
+
 
 
 
