@@ -117,5 +117,6 @@ Showing confidence scores
 
 
 
-<img width="1747" height="742" alt="example" src="https://github.com/user-attachments/assets/02708b31-35ea-4594-9b74-57b4ece9ca9e" />
+![Home Page](assets/example.png)
+
 
