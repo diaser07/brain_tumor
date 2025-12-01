@@ -70,14 +70,14 @@ streamlit run app.py
 
 The dataset contains MRI images divided into:
 
-Class	Description
-Glioma	Brain tumor that affects glial cells
+Class	      Description
+Glioma	    Brain tumor that affects glial cells
 
 Meningioma	Tumor in meninges (outer brain layer)
 
-Pituitary	Tumor located near pituitary gland
+Pituitary	  Tumor located near pituitary gland
 
-No Tumor	Healthy brain MRI
+No Tumor	  Healthy brain MRI
 
 Image sources include multiple MRI machines and orientations.
 
@@ -115,6 +115,7 @@ Showing confidence scores
 
 🖼️ Screenshots
 
-<img width="1747" height="742" alt="example" src="https://github.com/user-attachments/assets/d6007c05-a9df-44f3-9222-4af47249bd51" />
 
+
+<img width="1747" height="742" alt="example" src="https://github.com/user-attachments/assets/02708b31-35ea-4594-9b74-57b4ece9ca9e" />
 
