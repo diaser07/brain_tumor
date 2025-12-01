@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pillow
+opencv-python
+protobuf==3.20.*
+scikit-learn
+matplotlib
